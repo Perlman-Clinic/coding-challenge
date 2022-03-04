@@ -1,6 +1,6 @@
 # PocketDoc Coding Challenge
-Create a simple TODO app in a git repo (GitHub, BitBucket, etc...). The app will 
-consist of a ReactJS single page app, that makes requests to a restful API written 
+Create a simple TODO app in a git repo (GitHub, BitBucket, etc...). If' you'd like, 
+you can fork this repo and add your code. The app will consist of a ReactJS single page app, that makes requests to a restful API written 
 in golang. The API will persist data to a database or file
 
 ## Front-End
